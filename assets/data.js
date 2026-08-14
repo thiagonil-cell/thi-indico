@@ -30,15 +30,15 @@ window.OFFERS = [
   },
   {
     id: 3,
-    title: "Smartwatch Xiaomi Redmi Watch",
-    store: "Shopee",
-    category: "Eletrônicos",
-    oldPrice: "R$ 299,00",
-    price: "R$ 234,90",
-    discount: "-21%",
-    coupon: "SHP10",
-    link: "#",
-    image: "assets/produto-relogio.svg"
+  title: "Kit 10 Cuecas Boxer Lupo Microfibra Sem Costura",
+  store: "Mercado Livre",
+  category: "Moda",
+  oldPrice: "R$ 399,00",
+  price: "R$ 204,30",
+  discount: "48% OFF",
+  coupon: "COM CUPOM: R$ 163,44",
+  link: "https://meli.la/1iyqkCE",
+  image: "assets/kit-cuecas-lupo.jpg"
   },
   {
     id: 4,
