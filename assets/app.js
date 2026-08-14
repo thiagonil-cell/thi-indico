@@ -44,7 +44,7 @@
           <h3>${o.title}</h3>
           <div class="price-row"><span>${o.oldPrice}</span><strong>${o.price}</strong></div>
           ${o.coupon ? `<button class="coupon-code" data-code="${o.coupon}">CUPOM: ${o.coupon}</button>` : `<div class="coupon-code disabled">SEM CUPOM</div>`}
-          <a class="offer-button" href="${o.link}" target="_blank" rel="nofollow sponsored noopener">Pegar oferta ↗</a>
+          <a class="offer-button" href="produto.html?id=${o.id}">Ver oferta ↗</a>
         </div>
       </article>
     `).join('');
