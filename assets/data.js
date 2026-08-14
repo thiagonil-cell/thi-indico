@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
-  whatsapp: "https://wa.me/",
+  whatsapp: "https://chat.whatsapp.com/EtvLWjGux9D5FO4zU26lPL",
   maxHomeOffers: 10
 };
 
@@ -18,15 +18,15 @@ window.OFFERS = [
   },
   {
     id: 2,
-  title: "Mochila de Viagem Multifuncional Impermeável Expansível",
-  store: "Shopee",
-  category: "Moda",
-  oldPrice: "",
-  price: "R$ 113,99",
-  discount: "OFERTA",
-  coupon: "",
-  link: "https://s.shopee.com.br/7AcjwTMtPm",
-  image: "assets/mochila-viagem.jpg"
+    title: "Mochila de Viagem Multifuncional Impermeável Expansível",
+    store: "Shopee",
+    category: "Moda",
+    oldPrice: "",
+    price: "R$ 113,99",
+    discount: "OFERTA",
+    coupon: "",
+    link: "https://s.shopee.com.br/7AcjwTMtPm",
+    image: "assets/mochila-viagem.jpg"
   },
   {
     id: 3,
