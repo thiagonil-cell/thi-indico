@@ -16,8 +16,6 @@ window.OFFERS = [
     link: "https://meli.la/17N19hn",
     image: "assets/Saco-lavar-tenis.jpg"
   },
-  {
-    {
   id: 2,
   title: "Mochila de Viagem Multifuncional Impermeável Expansível",
   store: "Shopee",
@@ -29,7 +27,7 @@ window.OFFERS = [
   link: "https://s.shopee.com.br/7AcjwTMtPm",
   image: "assets/mochila-viagem.jpg"
 },
-  },
+{
   {
     id: 3,
     title: "Smartwatch Xiaomi Redmi Watch",
