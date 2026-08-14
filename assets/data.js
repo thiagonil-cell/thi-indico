@@ -17,16 +17,18 @@ window.OFFERS = [
     image: "assets/Saco-lavar-tenis.jpg"
   },
   {
-    id: 2,
-    title: "Caixa de Som JBL Flip 6 Bluetooth",
-    store: "Amazon",
-    category: "Eletrônicos",
-    oldPrice: "R$ 699,00",
-    price: "R$ 499,00",
-    discount: "-28%",
-    coupon: "MUSICA10",
-    link: "#",
-    image: "assets/produto-caixa.svg"
+    {
+  id: 2,
+  title: "Mochila de Viagem Multifuncional Impermeável Expansível",
+  store: "Shopee",
+  category: "Moda",
+  oldPrice: "",
+  price: "R$ 113,99",
+  discount: "OFERTA",
+  coupon: "",
+  link: "https://s.shopee.com.br/7AcjwTMtPm",
+  image: "assets/mochila-viagem.jpg"
+},
   },
   {
     id: 3,
