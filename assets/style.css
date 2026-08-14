@@ -67,6 +67,8 @@
   .coupon-code {
     min-height: 34px;
   }
+}
+
 /* Correção dos títulos no computador */
 @media (min-width: 601px) {
   .offer-body h3 {
@@ -74,10 +76,5 @@
     min-height: 52px !important;
     overflow: visible !important;
     line-height: 1.35;
-  }
-}
-  .offer-button {
-    width: 100%;
-    padding: 11px 5px;
   }
 }
