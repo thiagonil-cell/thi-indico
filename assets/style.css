@@ -16,3 +16,60 @@
 @media(max-width:1050px){.offers-grid{grid-template-columns:repeat(3,1fr)}.categories{grid-template-columns:repeat(5,1fr)}.header-main{grid-template-columns:250px 1fr}.group-link{display:none}.blog-cards{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:760px){.site-header{position:static}.header-main{grid-template-columns:1fr;gap:10px;padding:12px 0}.header-search{order:2}.main-nav{overflow:auto}.nav-inner{width:max-content;min-width:100%}.store-links{display:none}.hero{padding-top:20px}.hero-grid{grid-template-columns:1fr}.hero-highlight{display:none}.hero h1{font-size:38px}.benefits{gap:14px;justify-content:space-between}.offers-grid{grid-template-columns:repeat(2,1fr)}.categories{grid-template-columns:repeat(3,1fr)}.coupons-banner{grid-template-columns:50px 1fr}.coupons-banner .btn{grid-column:1/-1;width:100%}.blog-cards{grid-template-columns:1fr 1fr}.affiliate-note .container{flex-direction:column;align-items:flex-start;padding:10px 0}.footer-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:480px){.container{width:min(100% - 20px,1180px)}.hero h1{font-size:34px}.hero-copy>p{font-size:14px}.benefits div{font-size:10px}.offers-grid{gap:8px}.offer-image{height:135px}.offer-body{padding:9px}.offer-body h3{font-size:12px;height:32px}.price-row{display:block}.price-row strong{display:block;margin-top:3px}.categories{grid-template-columns:repeat(3,1fr)}.blog-cards{grid-template-columns:1fr}.footer-grid{grid-template-columns:1fr}.section-title h2{font-size:20px}}
+
+/* Ajustes dos cards no celular */
+@media (max-width: 600px) {
+
+  .offers-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .offer-card {
+    min-width: 0;
+  }
+
+  .offer-image {
+    height: 160px;
+    padding: 8px;
+  }
+
+  .offer-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .offer-body {
+    padding: 10px;
+  }
+
+  .offer-body h3 {
+    height: auto;
+    min-height: 48px;
+    overflow: visible;
+    font-size: 13px;
+    line-height: 1.25;
+    margin: 6px 0 10px;
+  }
+
+  .price-row {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 3px;
+  }
+
+  .price-row strong {
+    font-size: 18px;
+  }
+
+  .coupon-code {
+    min-height: 34px;
+  }
+
+  .offer-button {
+    width: 100%;
+    padding: 11px 5px;
+  }
+}
