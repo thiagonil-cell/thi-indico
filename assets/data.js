@@ -42,15 +42,15 @@ window.OFFERS = [
   },
   {
     id: 4,
-    title: "Parafusadeira 12V Bivolt",
-    store: "Mercado Livre",
-    category: "Ferramentas",
-    oldPrice: "R$ 489,00",
-    price: "R$ 409,90",
-    discount: "-16%",
-    coupon: "FERR18",
-    link: "#",
-    image: "assets/produto-ferramenta.svg"
+  title: "Eudora Siàge Hair-Plastia Shampoo 250ml",
+  store: "Amazon",
+  category: "Beleza",
+  oldPrice: "R$ 41,99",
+  price: "R$ 36,95",
+  discount: "-12%",
+  coupon: "",
+  link: "https://link.amazon/B0elTq6Tv",
+  image: "assets/shampoo-eudora-siage.jpg"
   },
   {
     id: 5,
