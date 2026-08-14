@@ -54,15 +54,15 @@ window.OFFERS = [
   },
   {
     id: 5,
-    title: "Tênis Casual Masculino",
-    store: "Shopee",
-    category: "Moda",
-    oldPrice: "R$ 249,00",
-    price: "R$ 199,90",
-    discount: "-20%",
-    coupon: "TENIS20",
-    link: "#",
-    image: "assets/produto-tenis.svg"
+  title: "Kit Hada Labo Cleansing Gokujyun Massage 2 Produtos",
+  store: "Mercado Livre",
+  category: "Beleza",
+  oldPrice: "R$ 94,90",
+  price: "R$ 66,00",
+  discount: "30% OFF",
+  coupon: "",
+  link: "https://meli.la/1e16etr",
+  image: "assets/kit-hada-labo.jpg"
   },
   {
     id: 6,
