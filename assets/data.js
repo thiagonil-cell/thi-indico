@@ -18,7 +18,7 @@ window.OFFERS = [
   discount: "OFERTA",
   coupon: "",
   link: "https://meli.la/17N19hn",
-  image: "assets/saco-lavar-tenis.jpg"
+  image: "assets/Saco-lavar-tenis.jpg"
 },
 
   {
