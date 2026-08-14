@@ -16,18 +16,18 @@ window.OFFERS = [
     link: "https://meli.la/17N19hn",
     image: "assets/Saco-lavar-tenis.jpg"
   },
-  id: 2,
-  title: "Mochila de Viagem Multifuncional Impermeável Expansível",
-  store: "Shopee",
-  category: "Moda",
-  oldPrice: "",
-  price: "R$ 113,99",
-  discount: "OFERTA",
-  coupon: "",
-  link: "https://s.shopee.com.br/7AcjwTMtPm",
-  image: "assets/mochila-viagem.jpg"
-},
-{
+  {
+    id: 2,
+    title: "Mochila de Viagem Multifuncional Impermeável Expansível",
+    store: "Shopee",
+    category: "Moda",
+    oldPrice: "",
+    price: "R$ 113,99",
+    discount: "OFERTA",
+    coupon: "",
+    link: "https://s.shopee.com.br/7AcjwTMtPm",
+    image: "assets/mochila-viagem.jpg"
+  },
   {
     id: 3,
     title: "Smartwatch Xiaomi Redmi Watch",
@@ -35,7 +35,7 @@ window.OFFERS = [
     category: "Eletrônicos",
     oldPrice: "R$ 299,00",
     price: "R$ 234,90",
-    discount: "-22%",
+    discount: "-21%",
     coupon: "SHP10",
     link: "#",
     image: "assets/produto-relogio.svg"
@@ -45,9 +45,9 @@ window.OFFERS = [
     title: "Parafusadeira 12V Bivolt",
     store: "Mercado Livre",
     category: "Ferramentas",
-    oldPrice: "R$ 499,00",
+    oldPrice: "R$ 489,00",
     price: "R$ 409,90",
-    discount: "-18%",
+    discount: "-16%",
     coupon: "FERR18",
     link: "#",
     image: "assets/produto-ferramenta.svg"
@@ -55,7 +55,7 @@ window.OFFERS = [
   {
     id: 5,
     title: "Tênis Casual Masculino",
-    store: "Amazon",
+    store: "Shopee",
     category: "Moda",
     oldPrice: "R$ 249,00",
     price: "R$ 199,90",
@@ -66,7 +66,7 @@ window.OFFERS = [
   },
   {
     id: 6,
-    title: "Câmera Wi‑Fi para monitoramento",
+    title: "Câmera Wi-Fi para monitoramento",
     store: "Shopee",
     category: "Eletrônicos",
     oldPrice: "R$ 169,90",
@@ -79,6 +79,13 @@ window.OFFERS = [
 ];
 
 window.CATEGORIES = [
-  ["Todos","▦"],["Casa","⌂"],["Eletrônicos","▭"],["Beleza","♙"],
-  ["Ferramentas","⚒"],["Moda","♜"],["Esportes","◉"],["Infantil","♧"],["Automotivo","▰"]
+  ["Todos", "▦"],
+  ["Casa", "⌂"],
+  ["Eletrônicos", "▣"],
+  ["Beleza", "✦"],
+  ["Ferramentas", "⚒"],
+  ["Moda", "▼"],
+  ["Esportes", "●"],
+  ["Infantil", "✣"],
+  ["Automotivo", "▰"]
 ];
