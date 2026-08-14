@@ -66,15 +66,15 @@ window.OFFERS = [
   },
   {
     id: 6,
-    title: "Câmera Wi-Fi para monitoramento",
-    store: "Shopee",
-    category: "Eletrônicos",
-    oldPrice: "R$ 169,90",
-    price: "R$ 119,90",
-    discount: "-29%",
-    coupon: "CASA10",
-    link: "#",
-    image: "assets/produto-camera.svg"
+  title: "Kit 10 Lâmpadas LED Bulbo 50W Branco Frio 6500K Bivolt E27",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 189,90",
+  price: "R$ 139,11",
+  discount: "26% OFF",
+  coupon: "R$ 104,33 com cupom",
+  link: "https://meli.la/1qs2L9Q",
+  image: "assets/kit-10-lampadas-led-50w.jpg"
   }
 ];
 
