@@ -129,7 +129,12 @@
 
 <script>
   const params = new URLSearchParams(window.location.search);
-  const id = Number(params.get("id"));
+const idAntigo = Number(params.get("id"));
+
+const partes = window.location.pathname.split("/").filter(Boolean);
+const idNovo = partes[0] === "p" ? Number(partes[1]) : 0;
+
+const id = idNovo || idAntigo;
 
   const produto = window.OFFERS.find(item => item.id === id);
   const container = document.getElementById("produto");
