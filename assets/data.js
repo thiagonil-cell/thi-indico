@@ -1,6 +1,3 @@
-// EDITE ESTE ARQUIVO PARA TROCAR PRODUTOS E LINKS.
-// Os produtos abaixo são EXEMPLOS. Substitua preços e URLs antes de publicar.
-
 window.SITE_CONFIG = {
   whatsapp: "https://wa.me/",
   maxHomeOffers: 10
@@ -8,19 +5,17 @@ window.SITE_CONFIG = {
 
 window.OFFERS = [
   {
-    {
-  id: 1,
-  title: "Saco Protetor para Lavar Tênis na Máquina",
-  store: "Mercado Livre",
-  category: "Casa",
-  oldPrice: "",
-  price: "R$ 18,08",
-  discount: "OFERTA",
-  coupon: "",
-  link: "https://meli.la/17N19hn",
-  image: "assets/Saco-lavar-tenis.jpg"
-},
-
+    id: 1,
+    title: "Saco Protetor para Lavar Tênis na Máquina",
+    store: "Mercado Livre",
+    category: "Casa",
+    oldPrice: "",
+    price: "R$ 18,08",
+    discount: "OFERTA",
+    coupon: "",
+    link: "https://meli.la/17N19hn",
+    image: "assets/Saco-lavar-tenis.jpg"
+  },
   {
     id: 2,
     title: "Caixa de Som JBL Flip 6 Bluetooth",
