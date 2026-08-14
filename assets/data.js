@@ -8,17 +8,19 @@ window.SITE_CONFIG = {
 
 window.OFFERS = [
   {
-    id: 1,
-    title: "Air Fryer Mondial 4L AFN-40-BI 1500W",
-    store: "Mercado Livre",
-    category: "Casa",
-    oldPrice: "R$ 399,00",
-    price: "R$ 259,90",
-    discount: "-35%",
-    coupon: "MELI40",
-    link: "#",
-    image: "assets/produto-airfryer.svg"
-  },
+    {
+  id: 1,
+  title: "Saco Protetor para Lavar Tênis na Máquina",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "",
+  price: "R$ 18,08",
+  discount: "OFERTA",
+  coupon: "",
+  link: "https://meli.la/17N19hn",
+  image: "assets/saco-lavar-tenis.jpg"
+},
+
   {
     id: 2,
     title: "Caixa de Som JBL Flip 6 Bluetooth",
