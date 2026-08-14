@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Oferta | Thi Indico</title>
+  <link rel="stylesheet" href="assets/style.css">
+
+  <style>
+    .produto-pagina {
+      max-width: 1050px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+
+    .produto-detalhe {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 45px;
+      align-items: center;
+    }
+
+    .produto-foto {
+      background: #fff;
+      border: 1px solid #eee;
+      border-radius: 18px;
+      padding: 25px;
+      text-align: center;
+    }
+
+    .produto-foto img {
+      width: 100%;
+      max-height: 500px;
+      object-fit: contain;
+    }
+
+    .produto-loja {
+      font-size: 14px;
+      font-weight: 700;
+      color: #e50914;
+      margin-bottom: 10px;
+    }
+
+    .produto-info h1 {
+      font-size: 34px;
+      line-height: 1.15;
+      margin: 0 0 20px;
+    }
+
+    .produto-preco-antigo {
+      color: #777;
+      text-decoration: line-through;
+      margin-bottom: 5px;
+    }
+
+    .produto-preco {
+      color: #e50914;
+      font-size: 36px;
+      font-weight: 800;
+      margin-bottom: 15px;
+    }
+
+    .produto-cupom {
+      border: 1px dashed #e50914;
+      padding: 14px;
+      border-radius: 10px;
+      margin: 15px 0;
+      font-weight: 700;
+    }
+
+    .produto-botao {
+      display: block;
+      background: #e50914;
+      color: white;
+      text-decoration: none;
+      text-align: center;
+      font-weight: 800;
+      padding: 17px;
+      border-radius: 10px;
+      font-size: 18px;
+      margin-top: 20px;
+    }
+
+    .voltar {
+      display: inline-block;
+      margin-bottom: 25px;
+      color: #111;
+      text-decoration: none;
+      font-weight: 700;
+    }
+
+    @media (max-width: 700px) {
+      .produto-pagina {
+        margin: 10px auto;
+        padding: 15px;
+      }
+
+      .produto-detalhe {
+        grid-template-columns: 1fr;
+        gap: 20px;
+      }
+
+      .produto-foto {
+        padding: 10px;
+      }
+
+      .produto-info h1 {
+        font-size: 24px;
+      }
+
+      .produto-preco {
+        font-size: 30px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<main class="produto-pagina">
+
+  <a class="voltar" href="index.html">← Voltar para as ofertas</a>
+
+  <div id="produto"></div>
+
+</main>
+
+<script src="assets/data.js"></script>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const id = Number(params.get("id"));
+
+  const produto = window.OFFERS.find(item => item.id === id);
+  const container = document.getElementById("produto");
+
+  if (!produto) {
+    container.innerHTML = `
+      <h1>Oferta não encontrada</h1>
+      <p>Essa oferta pode ter sido removida ou encerrada.</p>
+      <a href="index.html">Ver outras ofertas</a>
+    `;
+  } else {
+
+    document.title = produto.title + " | Thi Indico";
+
+    const cupom = produto.coupon
+      ? `<div class="produto-cupom">🎟️ ${produto.coupon}</div>`
+      : `<div class="produto-cupom">Sem cupom</div>`;
+
+    const precoAntigo = produto.oldPrice
+      ? `<div class="produto-preco-antigo">${produto.oldPrice}</div>`
+      : "";
+
+    container.innerHTML = `
+      <div class="produto-detalhe">
+
+        <div class="produto-foto">
+          <img src="${produto.image}" alt="${produto.title}">
+        </div>
+
+        <div class="produto-info">
+
+          <div class="produto-loja">${produto.store}</div>
+
+          <h1>${produto.title}</h1>
+
+          ${precoAntigo}
+
+          <div class="produto-preco">${produto.price}</div>
+
+          ${cupom}
+
+          <a
+            class="produto-botao"
+            href="${produto.link}"
+            target="_blank"
+            rel="nofollow sponsored noopener"
+          >
+            Pegar oferta ↗
+          </a>
+
+        </div>
+
+      </div>
+    `;
+  }
+</script>
+
+</body>
+</html>
