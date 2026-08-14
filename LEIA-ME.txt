@@ -1,0 +1,30 @@
+THI INDICO — VERSÃO PRONTA PARA PUBLICAR
+
+1) ANTES DE PUBLICAR
+Edite assets/data.js:
+- troque os produtos de exemplo pelos seus produtos reais;
+- troque link: "#" pelo seu link de afiliado;
+- altere whatsapp: "https://wa.me/" pelo link do seu grupo/canal.
+
+2) PRODUTOS
+Cada item fica dentro de window.OFFERS em assets/data.js.
+Você altera:
+title, store, category, oldPrice, price, discount, coupon, link, image.
+
+3) IMAGENS
+As imagens atuais são ilustrações locais de demonstração.
+Para produto real, salve a imagem dentro da pasta assets e altere o campo image.
+
+4) PUBLICAÇÃO MAIS SIMPLES
+Você pode enviar a pasta inteira para uma hospedagem estática.
+O arquivo inicial é index.html.
+
+5) DOMÍNIO
+Quando tiver um domínio, aponte-o para a hospedagem escolhida.
+Exemplo de nome: thiindico.com.br
+
+6) IMPORTANTE
+- confirme preço/cupom/estoque antes de publicar cada oferta;
+- mantenha o aviso de afiliados;
+- revise Política de Privacidade e Termos de Uso antes de colocar analytics, pixels ou formulários;
+- substitua o e-mail de contato nas páginas legais.

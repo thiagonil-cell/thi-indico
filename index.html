@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#e50914" />
+  <meta name="description" content="Thi Indico: achadinhos, ofertas e cupons da Amazon, Mercado Livre e Shopee." />
+  <meta property="og:title" content="Thi Indico | Achadinhos e ofertas" />
+  <meta property="og:description" content="Achadinhos, ofertas e cupons que valem a pena." />
+  <meta property="og:type" content="website" />
+  <title>Thi Indico | Achadinhos e Ofertas</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-main">
+      <a class="brand" href="index.html" aria-label="Thi Indico">
+        <span class="brand-icon">T</span>
+        <span class="brand-copy"><strong>Thi <em>Indico</em></strong><small>Achadinhos e ofertas que valem a pena</small></span>
+      </a>
+
+      <form class="header-search" id="headerSearchForm">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg>
+        <input id="headerSearch" type="search" placeholder="Buscar produto, loja ou categoria..." autocomplete="off" />
+      </form>
+
+      <a class="group-link" href="#" id="whatsappTop" target="_blank" rel="noopener">
+        <span class="wa">◉</span> Grupo de Ofertas
+      </a>
+    </div>
+
+    <nav class="main-nav">
+      <div class="container nav-inner">
+        <a class="nav-active" href="#ofertas">🏷 Ofertas</a>
+        <a href="#categorias">▦ Categorias</a>
+        <a href="#cupons">🎟 Cupons</a>
+        <a href="blog.html">▤ Blog</a>
+        <div class="store-links">
+          <span>amazon</span><span>mercado livre</span><span>Shopee</span>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="hero-copy">
+          <div class="eyebrow">🔥 OFERTAS QUE VALEM A PENA</div>
+          <h1>Achadinhos bons de verdade, <span>em um só lugar.</span></h1>
+          <p>Promoções, cupons e oportunidades da Amazon, Mercado Livre e Shopee selecionadas para você economizar.</p>
+
+          <div class="benefits">
+            <div><b>✓</b><span>Links oficiais<br>das lojas</span></div>
+            <div><b>%</b><span>Cupons<br>destacados</span></div>
+            <div><b>⚡</b><span>Atualização<br>rápida</span></div>
+          </div>
+
+          <form class="hero-search" id="heroSearchForm">
+            <span>⌕</span>
+            <input id="heroSearch" type="search" placeholder="Buscar produto, loja ou categoria..." autocomplete="off">
+          </form>
+        </div>
+
+        <aside class="hero-highlight">
+          <div class="highlight-kicker">DESTAQUE DE HOJE</div>
+          <div class="bolt">⚡</div>
+          <h2>Economize sem perder tempo</h2>
+          <p>Você encontra a oferta aqui e finaliza a compra diretamente na loja.</p>
+          <a href="#ofertas" class="btn btn-red">Ver ofertas</a>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section container" id="ofertas">
+      <div class="section-title">
+        <div><span>🔥</span><h2>Ofertas em destaque</h2></div>
+        <button id="showAllOffers" class="text-button">Ver todas as ofertas →</button>
+      </div>
+      <div class="offers-grid" id="offersGrid"></div>
+      <div class="empty" id="emptyOffers" hidden>Nenhuma oferta encontrada.</div>
+    </section>
+
+    <section class="section container" id="categorias">
+      <div class="section-title">
+        <div><span>▣</span><h2>Categorias</h2></div>
+      </div>
+      <div class="categories" id="categoriesList"></div>
+    </section>
+
+    <section class="container coupons-banner" id="cupons">
+      <div class="coupon-art">%</div>
+      <div>
+        <h2>Cupons que fazem a diferença</h2>
+        <p>Ative e use os melhores cupons das principais lojas.</p>
+      </div>
+      <button class="btn btn-red" id="goCoupons">Ver cupons disponíveis</button>
+    </section>
+
+    <section class="section container">
+      <div class="section-title">
+        <div><span>▤</span><h2>Do blog</h2></div>
+        <a class="text-button" href="blog.html">Ver todos os artigos →</a>
+      </div>
+      <div class="blog-cards">
+        <a class="blog-card" href="artigo-afiliados.html">
+          <div class="blog-cover cover-amazon">AMAZON</div>
+          <div class="blog-content">
+            <small>COMPRAS ONLINE</small>
+            <h3>Como comprar na Amazon com segurança e economizar</h3>
+            <p>Dicas simples para comparar preços, conferir vendedor e aproveitar promoções.</p>
+          </div>
+        </a>
+        <a class="blog-card" href="blog.html">
+          <div class="blog-cover cover-ml">MERCADO LIVRE</div>
+          <div class="blog-content">
+            <small>MERCADO LIVRE</small>
+            <h3>7 dicas para aproveitar melhor as ofertas</h3>
+            <p>Como observar cupons, frete, parcelamento e condições do anúncio.</p>
+          </div>
+        </a>
+        <a class="blog-card" href="blog.html">
+          <div class="blog-cover cover-shopee">SHOPEE</div>
+          <div class="blog-content">
+            <small>SHOPEE</small>
+            <h3>Como encontrar cupons e descontos</h3>
+            <p>Estratégias simples para pagar menos nas suas compras.</p>
+          </div>
+        </a>
+        <a class="blog-card" href="blog.html">
+          <div class="blog-cover cover-coupons">% % %</div>
+          <div class="blog-content">
+            <small>DICAS</small>
+            <h3>Como saber se uma promoção realmente vale a pena</h3>
+            <p>Confira preço final, frete, cupom e reputação antes de comprar.</p>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <div class="affiliate-note">
+      <div class="container">
+        <span>ⓘ Os preços e cupons podem expirar ou mudar a qualquer momento.</span>
+        <span>Este site contém links de afiliados. Ao comprar por eles, você apoia o Thi Indico sem pagar nada a mais por isso.</span>
+      </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-grid">
+      <div>
+        <a class="brand footer-brand" href="index.html">
+          <span class="brand-icon">T</span><span class="brand-copy"><strong>Thi Indico</strong></span>
+        </a>
+        <p>Achadinhos e ofertas que valem a pena.</p>
+      </div>
+      <div><h4>Links úteis</h4><a href="sobre.html">Sobre nós</a><a href="politica.html">Política de Privacidade</a><a href="termos.html">Termos de Uso</a></div>
+      <div><h4>Categorias populares</h4><a href="#categorias">Eletrônicos</a><a href="#categorias">Casa</a><a href="#categorias">Moda</a><a href="#categorias">Ferramentas</a></div>
+      <div><h4>Siga e participe</h4><p>Entre no nosso grupo de ofertas e receba promoções todos os dias.</p><a class="btn btn-green" href="#" id="whatsappFooter" target="_blank" rel="noopener">Entrar no grupo</a></div>
+    </div>
+    <div class="container footer-bottom">© 2026 Thi Indico. Todos os direitos reservados.</div>
+  </footer>
+
+  <div class="toast" id="toast"></div>
+  <script src="assets/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
