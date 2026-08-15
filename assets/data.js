@@ -99,6 +99,18 @@ window.OFFERS = [
   coupon: "Cupom por seguir a loja",
   link: "https://meli.la/2UPvD97",
   image: "assets/lavadora-lava-jato.jpg"
+    },
+  {
+    id: 8,
+  title: "Tênis Masculino Sem Cadarço Meia Calce Fácil Academia Treino",
+  store: "Mercado Livre",
+  category: "Moda",
+  oldPrice: "R$ 99,99",
+  price: "R$ 79,99",
+  discount: "OFERTA",
+  coupon: "COM CUPOM",
+  link: "https://meli.la/32VaTGi",
+  image: "assets/tenis-masculino-sem-cadarco.jpg"
 },
 ];
 
