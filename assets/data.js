@@ -87,6 +87,18 @@ window.OFFERS = [
   coupon: "SEMPREMODA",
   link: "https://meli.la/1PpjoJo",
   image: "assets/tenis-ramarim-chunky.jpg"
+    },
+  {
+    id: 8,
+  title: "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 229,90",
+  price: "R$ 200,93",
+  discount: "OFERTA",
+  coupon: "Cupom por seguir a loja",
+  link: "https://meli.la/2UPvD97",
+  image: "assets/lavadora-lava-jato.jpg"
 },
 ];
 
