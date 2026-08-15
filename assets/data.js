@@ -75,7 +75,19 @@ window.OFFERS = [
   coupon: "R$ 104,33 com cupom",
   link: "https://meli.la/1qs2L9Q",
   image: "assets/kit-10-lampadas-led-50w.jpg"
-  }
+    },
+  {
+  id: 7,
+  title: "Tênis Feminino Chunky Ramarim Casual Conforto Original",
+  store: "Mercado Livre",
+  category: "Moda",
+  oldPrice: "R$ 399,90",
+  price: "R$ 141,81",
+  discount: "64% OFF",
+  coupon: "SEMPREMODA",
+  link: "https://meli.la/1PpjoJo",
+  image: "assets/tenis-ramarim-chunky.jpg"
+},
 ];
 
 window.CATEGORIES = [
