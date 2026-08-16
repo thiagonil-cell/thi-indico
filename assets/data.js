@@ -160,6 +160,18 @@ window.OFFERS = [
   link: "https://meli.la/2E7iSZE",
   image: "assets/mala-bordo-sweet-studio.jpg"
 },
+  {
+  id: 14,
+  title: "Creme de Pentear Lola Meu Cacho Minha Vida 500g",
+  store: "Amazon",
+  category: "Beleza",
+  oldPrice: "R$ 64,90",
+  price: "R$ 24,85",
+  discount: "OFERTA",
+  coupon: "",
+  link: "https://link.amazon/B07Wj47jX",
+  image: "assets/creme-lola-meu-cacho-minha-vida.jpg"
+},
 ];
 
 window.CATEGORIES = [
