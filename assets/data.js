@@ -169,7 +169,7 @@ window.OFFERS = [
   price: "R$ 24,85",
   discount: "OFERTA",
   coupon: "",
-  link: "https://link.amazon/B07Wj47jX",
+  link: "https://link.amazon/B0jdLMb5v",
   image: "assets/creme-lola-meu-cacho-minha-vida.jpg"
 },
 ];
