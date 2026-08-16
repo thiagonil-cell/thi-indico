@@ -136,6 +136,18 @@ window.OFFERS = [
   link: "https://www.amazon.com.br/dp/B0FCG9HV84?th=1&psc=1&linkCode=ll2&tag=thiindico-20&linkId=08377f64cf03b6e921ba86d3e2aff03f&ref_=as_li_ss_tl",
   image: "assets/tenis-mizuno-cool-ride-3.jpg"
 },
+  {
+  id: 12,
+  title: "NIVEA Creme Facial Noturno Ultraleve 7 em 1 100g",
+  store: "Amazon",
+  category: "Beleza",
+  oldPrice: "R$ 32,90",
+  price: "R$ 26,59",
+  discount: "19% OFF",
+  coupon: "Cupom de R$ 4,61",
+  link: "https://link.amazon/B0c7ZAXUX",
+  image: "assets/nivea-creme-facial-noturno.jpg"
+},
 ];
 
 window.CATEGORIES = [
