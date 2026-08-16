@@ -78,3 +78,23 @@
     line-height: 1.35;
   }
 }
+/* PADRONIZA TODAS AS FOTOS DOS PRODUTOS */
+.offer-image {
+  width: 100% !important;
+  height: 180px !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  display: block !important;
+  background: #fff !important;
+}
+
+/* IMPEDE A FOTO DE INVADIR O TEXTO */
+.offer-card {
+  overflow: hidden !important;
+}
+
+.offer-body {
+  position: relative !important;
+  background: #fff !important;
+  z-index: 2 !important;
+}
