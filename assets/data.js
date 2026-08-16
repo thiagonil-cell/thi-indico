@@ -148,6 +148,18 @@ window.OFFERS = [
   link: "https://link.amazon/B0c7ZAXUX",
   image: "assets/nivea-creme-facial-noturno.jpg"
 },
+  {
+  id: 13,
+  title: "Mala de Bordo Rígida Sweet Studio 4 Rodas com Zíper Expansível",
+  store: "Mercado Livre",
+  category: "Moda",
+  oldPrice: "R$ 322,00",
+  price: "R$ 173,85",
+  discount: "46% OFF",
+  coupon: "",
+  link: "https://meli.la/2E7iSZE",
+  image: "assets/mala-bordo-sweet-studio.jpg"
+},
 ];
 
 window.CATEGORIES = [
