@@ -172,6 +172,18 @@ window.OFFERS = [
   link: "https://link.amazon/B0jdLMb5v",
   image: "assets/creme-lola-meu-cacho-minha-vida.jpg"
 },
+  {
+  id: 15,
+  title: "Electrolux Kit 12 Potes Herméticos de Plástico",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 119,00",
+  price: "R$ 89,90",
+  discount: "24% OFF",
+  coupon: "",
+  link: "https://meli.la/198kvH6",
+  image: "assets/kit-potes-electrolux.jpg"
+},
 ];
 
 window.CATEGORIES = [
