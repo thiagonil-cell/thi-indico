@@ -111,6 +111,18 @@ window.OFFERS = [
   coupon: "COM CUPOM",
   link: "https://meli.la/32VaTGi",
   image: "assets/tenis-masculino-sem-cadarco.jpg"
+      },
+  {
+    id: 10,
+  title: "Lâmpada Inteligente Alta Potência 20W Elgin Color RGB Wi-Fi",
+  store: "Amazon",
+  category: "Casa",
+  oldPrice: "R$ 111,90",
+  price: "R$ 34,38",
+  discount: "OFERTA",
+  coupon: "",
+  link: "COLE_AQUI_SEU_LINK_DE_AFILIADO_AMAZON",
+  image: "assets/lampada-inteligente-elgin.jpg"
 },
 ];
 
