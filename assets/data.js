@@ -124,6 +124,18 @@ window.OFFERS = [
   link: "https://link.amazon/B0aUSnEqX",
   image: "assets/lampada-inteligente-elgin.jpg"
 },
+  {
+  id: 11,
+  title: "Tênis de Corrida Mizuno Cool Ride 3",
+  store: "Amazon",
+  category: "Moda",
+  oldPrice: "R$ 399,99",
+  price: "R$ 251,99",
+  discount: "37% OFF",
+  coupon: "",
+  link: "https://www.amazon.com.br/dp/B0FCG9HV84?th=1&psc=1&linkCode=ll2&tag=thiindico-20&linkId=08377f64cf03b6e921ba86d3e2aff03f&ref_=as_li_ss_tl",
+  image: "assets/tenis-mizuno-cool-ride-3.jpg"
+},
 ];
 
 window.CATEGORIES = [
