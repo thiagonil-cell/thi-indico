@@ -121,7 +121,7 @@ window.OFFERS = [
   price: "R$ 34,38",
   discount: "OFERTA",
   coupon: "",
-  link: "COLE_AQUI_SEU_LINK_DE_AFILIADO_AMAZON",
+  link: "https://roxgrupos.cloud/p/b0fcg9hv84?r=mmB6FOc_",
   image: "assets/lampada-inteligente-elgin.jpg"
 },
 ];
