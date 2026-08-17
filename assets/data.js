@@ -280,6 +280,18 @@ window.OFFERS = [
   link: "https://meli.la/2Hoajzx",
   image: "assets/creamy-ceramide-400ml.jpg"
 },
+  {
+  id: 24,
+  title: "Tênis Feminino Adidas Response 2",
+  store: "Mercado Livre",
+  category: "Moda",
+  oldPrice: "R$ 499,99",
+  price: "R$ 336,59",
+  discount: "32% OFF",
+  coupon: "R$ 282,59 com cupom",
+  link: "https://meli.la/327UPLW",
+  image: "assets/tenis-adidas-response-2.jpg"
+},
 ];
 
 window.CATEGORIES = [
