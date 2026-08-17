@@ -196,6 +196,18 @@ window.OFFERS = [
   link: "https://link.amazon/B06A6k01d",
   image: "assets/liquidificador-arno-powermix.jpg"
 },
+  {
+  id: 17,
+  title: "Lava Roupas Líquido OMO Lavanderia Profissional 7L",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 98,50",
+  price: "R$ 90,23",
+  discount: "8% OFF",
+  coupon: "",
+  link: "https://meli.la/1jFLMho",
+  image: "assets/omo-lava-roupas-profissional-7l.jpg"
+},
 ];
 
 window.CATEGORIES = [
