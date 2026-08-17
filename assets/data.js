@@ -220,6 +220,18 @@ window.OFFERS = [
   link: "https://meli.la/262DeEW",
   image: "assets/kit-2-cameras-lampada.jpg"
 },
+  {
+  id: 19,
+  title: "Multiprocessador Oster 3 em 1 OMPR680 127V",
+  store: "Amazon",
+  category: "Eletrodomésticos",
+  oldPrice: "R$ 345,00",
+  price: "R$ 174,57",
+  discount: "45% OFF",
+  coupon: "10% OFF",
+  link: "https://link.amazon/B0i04Ntnc",
+  image: "assets/multiprocessador-oster-3-em-1.jpg"
+},
 ];
 
 window.CATEGORIES = [
