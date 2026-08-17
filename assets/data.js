@@ -184,6 +184,18 @@ window.OFFERS = [
   link: "https://meli.la/198kvH6",
   image: "assets/kit-potes-electrolux.jpg"
 },
+  {
+  id: 16,
+  title: "Liquidificador Arno Powermix 700W LQ35 110V",
+  store: "Amazon",
+  category: "Casa",
+  oldPrice: "",
+  price: "R$ 95,90",
+  discount: "OFERTA",
+  coupon: "",
+  link: "https://link.amazon/B06A6k01d",
+  image: "assets/liquidificador-arno-powermix.jpg"
+},
 ];
 
 window.CATEGORIES = [
