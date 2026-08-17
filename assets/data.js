@@ -244,6 +244,18 @@ window.OFFERS = [
   link: "https://meli.la/1DuTt7b",
   image: "assets/organizador-maquiagem-2-andares.jpg"
 },
+  {
+  id: 21,
+  title: "Friso Refletivo Adesivo para Roda Yamaha YS 150 Fazer",
+  store: "Mercado Livre",
+  category: "Automotivo",
+  oldPrice: "",
+  price: "R$ 29,90",
+  discount: "OFERTA",
+  coupon: "R$ 26,91 com cupom",
+  link: "https://meli.la/2W6JGBH",
+  image: "assets/friso-refletivo-yamaha-fazer-150.jpg"
+},
 ];
 
 window.CATEGORIES = [
