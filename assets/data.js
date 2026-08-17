@@ -268,6 +268,18 @@ window.OFFERS = [
   link: "https://meli.la/1uhBZwx",
   image: "assets/meiao-umbro-team-preto.jpg"
 },
+  {
+  id: 23,
+  title: "Creamy Skincare Ceramide Body Cream 400ml",
+  store: "Mercado Livre",
+  category: "Beleza",
+  oldPrice: "R$ 80,49",
+  price: "R$ 72,44",
+  discount: "10% OFF",
+  coupon: "R$ 65,20 com cupom",
+  link: "https://meli.la/2Hoajzx",
+  image: "assets/creamy-ceramide-400ml.jpg"
+},
 ];
 
 window.CATEGORIES = [
