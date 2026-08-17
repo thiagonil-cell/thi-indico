@@ -208,6 +208,18 @@ window.OFFERS = [
   link: "https://meli.la/1jFLMho",
   image: "assets/omo-lava-roupas-profissional-7l.jpg"
 },
+  {
+  id: 18,
+  title: "Kit 2 Câmeras Lâmpada de Segurança IP Wi-Fi 360°",
+  store: "Mercado Livre",
+  category: "Eletrônicos",
+  oldPrice: "R$ 199,97",
+  price: "R$ 84,31",
+  discount: "43% OFF",
+  coupon: "CASAML",
+  link: "https://meli.la/262DeEW",
+  image: "assets/kit-2-cameras-lampada.jpg"
+},
 ];
 
 window.CATEGORIES = [
