@@ -232,6 +232,18 @@ window.OFFERS = [
   link: "https://link.amazon/B0i04Ntnc",
   image: "assets/multiprocessador-oster-3-em-1.jpg"
 },
+  {
+  id: 20,
+  title: "Organizador Porta Maquiagem 2 Andares Kaziva Transparente",
+  store: "Mercado Livre",
+  category: "Beleza",
+  oldPrice: "R$ 49,90",
+  price: "R$ 18,63",
+  discount: "63% OFF",
+  coupon: "",
+  link: "https://meli.la/1DuTt7b",
+  image: "assets/organizador-maquiagem-2-andares.jpg"
+},
 ];
 
 window.CATEGORIES = [
