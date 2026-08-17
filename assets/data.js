@@ -256,6 +256,18 @@ window.OFFERS = [
   link: "https://meli.la/2W6JGBH",
   image: "assets/friso-refletivo-yamaha-fazer-150.jpg"
 },
+  {
+  id: 22,
+  title: "Meião de Futebol Adulto Umbro Team Original 39-43",
+  store: "Mercado Livre",
+  category: "Esportes",
+  oldPrice: "",
+  price: "R$ 32,90",
+  discount: "OFERTA",
+  coupon: "",
+  link: "https://meli.la/1uhBZwx",
+  image: "assets/meiao-umbro-team-preto.jpg"
+},
 ];
 
 window.CATEGORIES = [
