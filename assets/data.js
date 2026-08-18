@@ -304,6 +304,18 @@ window.OFFERS = [
   link: "https://meli.la/13V6Bz5",
   image: "assets/mini-maquina-waffle.jpg"
 },
+  {
+  id: 26,
+  title: "Parafusadeira e Furadeira de Impacto The Black Tools TB-21PW 21V",
+  store: "Mercado Livre",
+  category: "Ferramentas",
+  oldPrice: "R$ 299,90",
+  price: "R$ 140,60",
+  discount: "53% OFF",
+  coupon: "R$ 105,45 COM CUPOM",
+  link: "https://meli.la/2XESyzB",
+  image: "assets/parafusadeira-the-black-tools.jpg"
+}
 ];
 
 window.CATEGORIES = [
