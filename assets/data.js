@@ -316,6 +316,18 @@ window.OFFERS = [
   link: "https://meli.la/2XESyzB",
   image: "assets/parafusadeira-the-black-tools.jpg"
 }
+  {
+  id: 27,
+  title: "Fechadura Digital de Sobrepor Intelbras FR 102",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 190,53",
+  price: "R$ 152,40",
+  discount: "OFERTA",
+  coupon: "APROVEITAGORA",
+  link: "https://meli.la/2n3Jc1t",
+  image: "assets/fechadura-digital-intelbras-fr102.jpg"
+}
 ];
 
 window.CATEGORIES = [
