@@ -340,6 +340,18 @@ window.OFFERS = [
   link: "https://meli.la/13cjcex",
   image: "assets/camera-seguranca-ip-a33h.jpg"
 },
+  {
+  id: 29,
+  title: "Conjunto de Taças de Vidro 340ml Diamond Line - 6 Peças",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 34,65",
+  price: "R$ 25,99",
+  discount: "OFERTA",
+  coupon: "APROVEITAGORA",
+  link: "https://meli.la/1QUx3Ur",
+  image: "assets/conjunto-tacas-diamond-line.jpg"
+}
 ];
 
 window.CATEGORIES = [
