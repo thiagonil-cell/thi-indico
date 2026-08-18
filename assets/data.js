@@ -310,9 +310,9 @@ window.OFFERS = [
   store: "Mercado Livre",
   category: "Ferramentas",
   oldPrice: "R$ 299,90",
-  price: "R$ 140,60",
+  price: "R$ 105,45",
   discount: "53% OFF",
-  coupon: "R$ 105,45 COM CUPOM",
+  coupon: "OFFHOJE",
   link: "https://meli.la/2XESyzB",
   image: "assets/parafusadeira-the-black-tools.jpg"
 }
