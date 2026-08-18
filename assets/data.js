@@ -363,6 +363,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B085s8dXy",
   image: "assets/limpa-vidros-veja-vidrex.jpg"
+},
+  {
+  id: 31,
+  title: "Passadeira Corredor Tapete Super Peludo 2,00m x 0,60m Marrom",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 36,96",
+  price: "R$ 27,72",
+  discount: "OFERTA",
+  coupon: "APROVEITAGORA",
+  link: "https://meli.la/1iVr9zZ",
+  image: "assets/tapete-passadeira-peludo-marrom.jpg"
 }
 ];
 
