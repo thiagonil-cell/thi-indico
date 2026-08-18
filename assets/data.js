@@ -339,7 +339,7 @@ window.OFFERS = [
   coupon: "COM CUPOM",
   link: "https://meli.la/13cjcex",
   image: "assets/camera-seguranca-ip-a33h.jpg"
-}
+},
 ];
 
 window.CATEGORIES = [
