@@ -327,6 +327,18 @@ window.OFFERS = [
   coupon: "APROVEITAGORA",
   link: "https://meli.la/2n3Jc1t",
   image: "assets/fechadura-digital-intelbras-fr102.jpg"
+},
+  {
+  id: 28,
+  title: "Câmera de Segurança IP A33H Lente Dupla 6MP 4K",
+  store: "Mercado Livre",
+  category: "Eletrônicos",
+  oldPrice: "R$ 133,67",
+  price: "R$ 100,25",
+  discount: "OFERTA",
+  coupon: "COM CUPOM",
+  link: "https://meli.la/13cjcex",
+  image: "assets/camera-seguranca-ip-a33h.jpg"
 }
 ];
 
