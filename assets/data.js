@@ -351,6 +351,18 @@ window.OFFERS = [
   coupon: "APROVEITAGORA",
   link: "https://meli.la/1QUx3Ur",
   image: "assets/conjunto-tacas-diamond-line.jpg"
+},
+  {
+  id: 30,
+  title: "Limpa Vidros Veja Vidrex Tradicional 500ml Squeeze",
+  store: "Amazon",
+  category: "Casa",
+  oldPrice: "",
+  price: "R$ 14,09",
+  discount: "OFERTA",
+  coupon: "",
+  link: "https://link.amazon/B085s8dXy",
+  image: "assets/limpa-vidros-veja-vidrex.jpg"
 }
 ];
 
