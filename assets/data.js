@@ -315,7 +315,7 @@ window.OFFERS = [
   coupon: "OFFHOJE",
   link: "https://meli.la/2XESyzB",
   image: "assets/parafusadeira-the-black-tools.jpg"
-}
+},
   {
   id: 27,
   title: "Fechadura Digital de Sobrepor Intelbras FR 102",
