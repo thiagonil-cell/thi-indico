@@ -292,6 +292,18 @@ window.OFFERS = [
   link: "https://meli.la/327UPLW",
   image: "assets/tenis-adidas-response-2.jpg"
 },
+  {
+  id: 25,
+  title: "Mini Máquina de Waffle Elétrica Antiaderente Vermelha",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "",
+  price: "R$ 46,95",
+  discount: "OFERTA",
+  coupon: "R$ 23,47 com cupom",
+  link: "https://meli.la/13V6Bz5",
+  image: "assets/mini-maquina-waffle.jpg"
+},
 ];
 
 window.CATEGORIES = [
