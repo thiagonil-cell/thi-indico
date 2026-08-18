@@ -375,6 +375,18 @@ window.OFFERS = [
   coupon: "APROVEITAGORA",
   link: "https://meli.la/1iVr9zZ",
   image: "assets/tapete-passadeira-peludo-marrom.jpg"
+},
+  {
+  id: 32,
+  title: "Kit Limpeza Automotiva Vonixx V-Floc Cera Tok Final Sintra Fast Intense",
+  store: "Mercado Livre",
+  category: "Automotivo",
+  oldPrice: "R$ 119,28",
+  price: "R$ 89,46",
+  discount: "OFERTA",
+  coupon: "MELIPROMO",
+  link: "https://meli.la/1xj3rsE",
+  image: "assets/kit-limpeza-automotiva-vonixx.jpg"
 }
 ];
 
