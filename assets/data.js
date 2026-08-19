@@ -399,6 +399,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/18Jcqe8",
   image: "assets/torneira-gourmet-cozinha-flexivel.jpg"
+},
+  {
+  id: 34,
+  title: "Eudora Siàge Hair-Plastia Máscara Capilar 250g",
+  store: "Amazon",
+  category: "Beleza",
+  oldPrice: "R$ 85,99",
+  price: "R$ 49,55",
+  discount: "42% OFF",
+  coupon: "",
+  link: "https://link.amazon/B05gAHDDu",
+  image: "assets/mascara-eudora-siage-hair-plastia.jpg"
 }
 ];
 
