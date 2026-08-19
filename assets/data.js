@@ -387,6 +387,18 @@ window.OFFERS = [
   coupon: "MELIPROMO",
   link: "https://meli.la/1xj3rsE",
   image: "assets/kit-limpeza-automotiva-vonixx.jpg"
+},
+  {
+  id: 33,
+  title: "Torneira Cozinha Gourmet Parede Flexível 3 Jatos 1/4 Volta",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 99,99",
+  price: "R$ 39,00",
+  discount: "OFERTA",
+  coupon: "",
+  link: "https://meli.la/18Jcqe8",
+  image: "assets/torneira-gourmet-cozinha-flexivel.jpg"
 }
 ];
 
