@@ -423,6 +423,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B03p2NY8I",
   image: "assets/pato-gel-adesivo-marine-12-discos.jpg"
+},
+  {
+  id: 36,
+  title: "Kit Eudora Siàge Hair-Plastia Mini - Shampoo + Condicionador + Máscara",
+  store: "Amazon",
+  category: "Beleza",
+  oldPrice: "R$ 78,99",
+  price: "R$ 35,00",
+  discount: "55% OFF",
+  coupon: "",
+  link: "https://link.amazon/B00uwjAnN",
+  image: "assets/kit-eudora-siage-hair-plastia-mini.jpg"
 }
 ];
 
