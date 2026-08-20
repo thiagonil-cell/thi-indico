@@ -411,6 +411,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B05gAHDDu",
   image: "assets/mascara-eudora-siage-hair-plastia.jpg"
+},
+  {
+  id: 35,
+  title: "Pato Gel Adesivo Marine 2 Refis - 12 Discos",
+  store: "Amazon",
+  category: "Casa",
+  oldPrice: "R$ 23,39",
+  price: "R$ 19,57",
+  discount: "16% OFF",
+  coupon: "",
+  link: "https://link.amazon/B03p2NY8I",
+  image: "assets/pato-gel-adesivo-marine-12-discos.jpg"
 }
 ];
 
