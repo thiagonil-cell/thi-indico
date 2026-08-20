@@ -435,6 +435,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B00uwjAnN",
   image: "assets/kit-eudora-siage-hair-plastia-mini.jpg"
+},
+  {
+  id: 37,
+  title: "Kit Inverno Touca + Gola Cachecol + Luva Touch Unissex",
+  store: "Mercado Livre",
+  category: "Moda",
+  oldPrice: "R$ 57,90",
+  price: "R$ 24,00",
+  discount: "58% OFF",
+  coupon: "",
+  link: "https://meli.la/2jA1NRM",
+  image: "assets/kit-inverno-touca-gola-luva-touch.jpg"
 }
 ];
 
