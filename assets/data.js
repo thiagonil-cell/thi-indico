@@ -506,6 +506,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/1bfi6DN",
   image: "assets/smart-tv-lg-ua75-65-4k.jpg"
+},
+  {
+  id: 43,
+  title: "Máquina de Cortar Cabelo e Barbeador B-Max BMC036 5 em 1",
+  store: "Mercado Livre",
+  category: "Beleza",
+  oldPrice: "R$ 179,90",
+  price: "R$ 96,11",
+  discount: "46% OFF",
+  coupon: "MODAEBELEZA",
+  link: "https://meli.la/1iWLHPH",
+  image: "assets/maquina-cortar-cabelo-bmax-bmc036-5em1.jpg"
 }
 ];
 
