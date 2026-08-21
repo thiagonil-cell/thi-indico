@@ -494,6 +494,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B0aRSWncq",
   image: "assets/garnier-hidratante-facial-colageno-85g.jpg"
+},
+  {
+  id: 42,
+  title: "Smart TV LG UHD AI UA75 65 Polegadas 4K HDR10 Pro webOS 25",
+  store: "Mercado Livre",
+  category: "Eletrônicos",
+  oldPrice: "R$ 4.709,92",
+  price: "R$ 3.068,07",
+  discount: "34% OFF",
+  coupon: "",
+  link: "https://meli.la/1bfi6DN",
+  image: "assets/smart-tv-lg-ua75-65-4k.jpg"
 }
 ];
 
