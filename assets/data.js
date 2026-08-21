@@ -458,6 +458,18 @@ window.OFFERS = [
   coupon: "R$ 23,00 com cupom",
   link: "https://meli.la/2NkEEop",
   image: "assets/coador-cafe-inox-103-reutilizavel.jpg"
+},
+  {
+  id: 39,
+  title: "Jogo de Taças Bowls de Vidro para Sobremesas e Sorvete - 6 Peças",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 39,90",
+  price: "R$ 19,30",
+  discount: "51% OFF",
+  coupon: "APROVEITAESSA",
+  link: "https://meli.la/2BUy1cy",
+  image: "assets/jogo-tacas-bowls-vidro-sobremesa.jpg"
 }
 ];
 
