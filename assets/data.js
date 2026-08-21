@@ -482,6 +482,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B0iy4taEm",
   image: "assets/downy-perfume-collection-mistico-135l.jpg"
+},
+  {
+  id: 41,
+  title: "Garnier Hidratante Facial Antissinais Toque Seco com Colágeno 85g",
+  store: "Amazon",
+  category: "Beleza",
+  oldPrice: "R$ 41,49",
+  price: "R$ 25,16",
+  discount: "39% OFF",
+  coupon: "",
+  link: "https://link.amazon/B0aRSWncq",
+  image: "assets/garnier-hidratante-facial-colageno-85g.jpg"
 }
 ];
 
