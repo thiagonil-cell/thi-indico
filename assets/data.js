@@ -447,6 +447,17 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/2jA1NRM",
   image: "assets/kit-inverno-touca-gola-luva-touch.jpg"
+},
+  {
+  id: 38,
+  title: "Coador de Café Inox 103 com Filtro Permanente Reutilizável",
+  store: "Mercado Livre",
+  category: "Casa",
+  price: "R$ 28,75",
+  discount: "46% OFF",
+  coupon: "R$ 23,00 com cupom",
+  link: "https://meli.la/2NkEEop",
+  image: "assets/coador-cafe-inox-103-reutilizavel.jpg"
 }
 ];
 
