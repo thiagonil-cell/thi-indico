@@ -470,6 +470,18 @@ window.OFFERS = [
   coupon: "APROVEITAESSA",
   link: "https://meli.la/2BUy1cy",
   image: "assets/jogo-tacas-bowls-vidro-sobremesa.jpg"
+},
+  {
+  id: 40,
+  title: "Downy Amaciante Concentrado Perfume Collection Místico 1,35L",
+  store: "Amazon",
+  category: "Casa",
+  oldPrice: "R$ 40,05",
+  price: "R$ 36,90",
+  discount: "7% OFF",
+  coupon: "",
+  link: "https://link.amazon/B0iy4taEm",
+  image: "assets/downy-perfume-collection-mistico-135l.jpg"
 }
 ];
 
