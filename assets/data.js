@@ -518,6 +518,18 @@ window.OFFERS = [
   coupon: "MODAEBELEZA",
   link: "https://meli.la/1iWLHPH",
   image: "assets/maquina-cortar-cabelo-bmax-bmc036-5em1.jpg"
+},
+  {
+  id: 44,
+  title: "Colchão Inflável Solteiro Multiuso Aveludado O2flow Azul",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 99,90",
+  price: "R$ 39,92",
+  discount: "60% OFF",
+  coupon: "PROMOESPORTE",
+  link: "https://meli.la/2nn74TQ",
+  image: "assets/colchao-inflavel-solteiro-o2flow-azul.jpg"
 }
 ];
 
