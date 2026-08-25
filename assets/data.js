@@ -530,6 +530,18 @@ window.OFFERS = [
   coupon: "PROMOESPORTE",
   link: "https://meli.la/2nn74TQ",
   image: "assets/colchao-inflavel-solteiro-o2flow-azul.jpg"
+},
+  {
+  id: 45,
+  title: "Tênis Nike Air Max Nuaxis Masculino Branco e Preto",
+  store: "Mercado Livre",
+  category: "Moda",
+  oldPrice: "R$ 599,99",
+  price: "R$ 329,98",
+  discount: "45% OFF",
+  coupon: "PROMOPRAMODA",
+  link: "https://meli.la/2MBZpam",
+  image: "assets/tenis-nike-air-max-nuaxis-masculino.jpg"
 }
 ];
 
