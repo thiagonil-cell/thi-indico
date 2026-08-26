@@ -566,6 +566,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B0cW7lXVT",
   image: "assets/dove-serum-corporal-niacinamida-380ml.jpg"
+},
+  {
+  id: 48,
+  title: "Smartwatch Samsung Galaxy Fit3 Display 1.6 Polegadas Prata",
+  store: "Amazon",
+  category: "Eletrônicos",
+  oldPrice: "R$ 549,00",
+  price: "R$ 218,90",
+  discount: "60% OFF",
+  coupon: "",
+  link: "https://link.amazon/B03gGxb1O",
+  image: "assets/samsung-galaxy-fit3-prata.jpg"
 }
 ];
 
