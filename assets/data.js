@@ -554,6 +554,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/278pmNX",
   image: "assets/aparelho-jantar-oxford-folk-20-pecas.jpg"
+},
+  {
+  id: 47,
+  title: "Dove Sérum Hidratante Corporal Niacinamida + Uniformizador 380ml",
+  store: "Amazon",
+  category: "Beleza",
+  oldPrice: "R$ 47,24",
+  price: "R$ 28,40",
+  discount: "40% OFF",
+  coupon: "",
+  link: "https://link.amazon/B0cW7lXVT",
+  image: "assets/dove-serum-corporal-niacinamida-380ml.jpg"
 }
 ];
 
