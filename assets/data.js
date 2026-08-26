@@ -542,6 +542,18 @@ window.OFFERS = [
   coupon: "PROMOPRAMODA",
   link: "https://meli.la/2MBZpam",
   image: "assets/tenis-nike-air-max-nuaxis-masculino.jpg"
+},
+  {
+  id: 46,
+  title: "Aparelho de Jantar Oxford Cerâmica Folk 20 Peças Estampado",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 349,90",
+  price: "R$ 174,80",
+  discount: "50% OFF",
+  coupon: "",
+  link: "https://meli.la/278pmNX",
+  image: "assets/aparelho-jantar-oxford-folk-20-pecas.jpg"
 }
 ];
 
