@@ -638,6 +638,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/2eQqgdF",
   image: "assets/torneira-cozinha-gourmet-flexivel-preta.jpg"
+},
+  {
+  id: 54,
+  title: "Fone Headphone JBL Tune 520BT Bluetooth Branco",
+  store: "Mercado Livre",
+  category: "Eletrônicos",
+  oldPrice: "R$ 350,00",
+  price: "R$ 203,30",
+  discount: "41% OFF",
+  coupon: "",
+  link: "https://meli.la/1S99WKN",
+  image: "assets/jbl-tune-520bt-branco.jpg"
 }
 ];
 
