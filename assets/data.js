@@ -602,6 +602,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/1YmFA5T",
   image: "assets/motorola-edge-70-fusion-fifa-256gb.jpg"
+},
+  {
+  id: 51,
+  title: "Air Fryer Philco 6,5L Visor Glass Redstone 1700W PAF65A",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 479,90",
+  price: "R$ 359,00",
+  discount: "25% OFF",
+  coupon: "",
+  link: "https://meli.la/16X4VkZ",
+  image: "assets/air-fryer-philco-paf65a-65l.jpg"
 }
 ];
 
