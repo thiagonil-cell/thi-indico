@@ -590,6 +590,18 @@ window.OFFERS = [
   coupon: "PROFORCE20",
   link: "https://link.amazon/B0hAvuHWa",
   image: "assets/piracanjuba-proforce-cacau-23g-pack-12.jpg"
+},
+  {
+  id: 50,
+  title: "Smartphone Motorola Edge 70 Fusion 5G FIFA World Cup Collection 256GB 24GB",
+  store: "Mercado Livre",
+  category: "Eletrônicos",
+  oldPrice: "R$ 3.799,00",
+  price: "R$ 2.249,10",
+  discount: "40% OFF",
+  coupon: "",
+  link: "https://meli.la/1YmFA5T",
+  image: "assets/motorola-edge-70-fusion-fifa-256gb.jpg"
 }
 ];
 
