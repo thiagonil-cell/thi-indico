@@ -597,7 +597,7 @@ window.OFFERS = [
   store: "Mercado Livre",
   category: "Eletrônicos",
   oldPrice: "R$ 3.799,00",
-  price: "R$ 2.249,10",
+  price: "R$ 1.979,10",
   discount: "40% OFF",
   coupon: "",
   link: "https://meli.la/1YmFA5T",
