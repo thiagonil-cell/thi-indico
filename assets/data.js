@@ -626,6 +626,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B09xWEQXD",
   image: "assets/creatina-dux-monohidratada-300g.jpg"
+},
+  {
+  id: 53,
+  title: "Torneira Cozinha Gourmet Bancada Flexível Monocomando Pia Preta",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 229,00",
+  price: "R$ 109,99",
+  discount: "51% OFF",
+  coupon: "",
+  link: "https://meli.la/2eQqgdF",
+  image: "assets/torneira-cozinha-gourmet-flexivel-preta.jpg"
 }
 ];
 
