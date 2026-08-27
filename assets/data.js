@@ -578,6 +578,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://link.amazon/B03gGxb1O",
   image: "assets/samsung-galaxy-fit3-prata.jpg"
+},
+  {
+  id: 49,
+  title: "Piracanjuba ProForce Bebida Proteica Cacau Zero Lactose 23g Proteínas 250ml Pack 12",
+  store: "Amazon",
+  category: "Alimentos",
+  oldPrice: "R$ 118,68",
+  price: "R$ 98,79",
+  discount: "16% OFF",
+  coupon: "PROFORCE20",
+  link: "https://link.amazon/B0hAvuHWa",
+  image: "assets/piracanjuba-proforce-cacau-23g-pack-12.jpg"
 }
 ];
 
