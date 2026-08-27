@@ -614,6 +614,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/16X4VkZ",
   image: "assets/air-fryer-philco-paf65a-65l.jpg"
+},
+  {
+  id: 52,
+  title: "Creatina Monohidratada DUX Sem Sabor 300g",
+  store: "Amazon",
+  category: "Suplementos",
+  oldPrice: "R$ 159,00",
+  price: "R$ 56,90",
+  discount: "64% OFF",
+  coupon: "",
+  link: "https://link.amazon/B09xWEQXD",
+  image: "assets/creatina-dux-monohidratada-300g.jpg"
 }
 ];
 
