@@ -686,6 +686,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/1t6uEXJ",
   image: "assets/kit-10-potes-vidro-hermetico-rishon-370ml.jpg"
+},
+  {
+  id: 58,
+  title: "Kit 6 Potes de Vidro Borossilicato Hermético 640ml com 4 Travas",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 129,90",
+  price: "R$ 58,00",
+  discount: "55% OFF",
+  coupon: "",
+  link: "https://meli.la/2kDUCz1",
+  image: "assets/kit-6-potes-vidro-hermetico-640ml.jpg"
 }
 ];
 
