@@ -650,6 +650,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/1S99WKN",
   image: "assets/jbl-tune-520bt-branco.jpg"
+},
+  {
+  id: 55,
+  title: "Câmera Inteligente Intelbras iM4 C Full HD Visão 360°",
+  store: "Mercado Livre",
+  category: "Eletrônicos",
+  oldPrice: "R$ 269,90",
+  price: "R$ 210,67",
+  discount: "21% OFF",
+  coupon: "",
+  link: "https://meli.la/1rG2MGf",
+  image: "assets/camera-intelbras-im4c-360.jpg"
 }
 ];
 
