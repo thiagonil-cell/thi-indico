@@ -698,6 +698,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/2kDUCz1",
   image: "assets/kit-6-potes-vidro-hermetico-640ml.jpg"
+},
+  {
+  id: 59,
+  title: "Kit 10 Potes de Vidro Marmita Hermético 640ml Vitrex",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 188,10",
+  price: "R$ 95,00",
+  discount: "49% OFF",
+  coupon: "",
+  link: "https://meli.la/1iaXvyf",
+  image: "assets/kit-10-potes-vidro-hermetico-640ml-vitrex.jpg"
 }
 ];
 
