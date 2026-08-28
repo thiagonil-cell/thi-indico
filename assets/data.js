@@ -662,6 +662,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/1rG2MGf",
   image: "assets/camera-intelbras-im4c-360.jpg"
+},
+  {
+  id: 56,
+  title: "Conjunto 12 Peças 6 Xícaras 150ml com Pires para Café e Chá Branco Floral",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 189,90",
+  price: "R$ 69,90",
+  discount: "63% OFF",
+  coupon: "",
+  link: "https://meli.la/1Mx6Cim",
+  image: "assets/conjunto-xicaras-pires-floral-12-pecas.jpg"
 }
 ];
 
