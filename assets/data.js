@@ -674,6 +674,18 @@ window.OFFERS = [
   coupon: "",
   link: "https://meli.la/1Mx6Cim",
   image: "assets/conjunto-xicaras-pires-floral-12-pecas.jpg"
+},
+  {
+  id: 57,
+  title: "Kit 10 Potes de Vidro Marmita Hermético 370ml Rishon",
+  store: "Mercado Livre",
+  category: "Casa",
+  oldPrice: "R$ 159,90",
+  price: "R$ 75,77",
+  discount: "52% OFF",
+  coupon: "",
+  link: "https://meli.la/1t6uEXJ",
+  image: "assets/kit-10-potes-vidro-hermetico-rishon-370ml.jpg"
 }
 ];
 
